@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seditious principle viz. that the supreme power is inherent in the people, and that perpetually as in the proper subject (upon which the late lawlesse actings against the King were grounded, and from which the long thraldom and misery of the three nations did ensue) : examined and confuted / by John Novell...</title>
+            <author>Novell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52540</idno>
+            <idno type="STC">Wing N1421A</idno>
+            <idno type="STC">ESTC R31102</idno>
+            <idno type="EEBO-CITATION">11771839</idno>
+            <idno type="OCLC">ocm 11771839</idno>
+            <idno type="VID">48896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seditious principle viz. that the supreme power is inherent in the people, and that perpetually as in the proper subject (upon which the late lawlesse actings against the King were grounded, and from which the long thraldom and misery of the three nations did ensue) : examined and confuted / by John Novell...</title>
+                  <author>Novell, John.</author>
+               </titleStmt>
+               <extent>[7], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sarah Bartlet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutional history --  Great Britain.</term>
+               <term>Monarchy --  Great Britain.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:48896:1"/>
+            <p>
+               <figure>
+                  <figDesc>Royal coat of arms.</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:48896:1" rendition="simple:additions"/>
+            <p>THE SEDITIOUS Principle, <hi>Viz. That the Supreme Power is inherent in the People, and that perpetually as in the proper Subject;</hi> [Upon which the late lawleſſe Actings againſt the KING were grounded; and from which the long Thraldom and Miſery of the three Nations did enſue.]</p>
+            <p>
+               <hi>Examined and Confuted.</hi>
+            </p>
+            <p>By <hi>JOHN NOVELL.</hi> B. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sarah Bartlet</hi> at the Gilt Cup in
+<hi>Weſtminſter</hi>-Hall. 1662.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:48896:2"/>
+            <p>Perlegi hunc Tractatum cui Titulus [<hi>The Seditious Principle,</hi> &amp;c.]</p>
+            <p>Examined and Confuted, <hi>Quem &amp; Lectu &amp; Typis dignum judico.</hi>
+            </p>
+            <closer>
+               <signed>M. Franck S.T.P. R. P. Epiſ. Lond. à ſacris domeſticis.</signed>
+               <dateline>
+                  <date>Feb. 26.1661/2</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48896:2"/>
+            <opener>
+               <salute>May it pleaſe Your Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His unhappy <hi>Poſthumus</hi> was intended to kiſſe Your Majeſties hand before the Authors death, but by ſome ill fate hath trewanted by the way, till now of late it came to me, who (having had a former acquaintance with it) in loyalty to Your Sacred Majeſty, duty to my Countrey, and obedience to the Authors meaning, whom I had the honour to call Tutor) dare do no leſse than publiſh and preſent it; nor could I have abuſed this opportunity without a tacite condem<g ref="char:EOLhyphen"/>nation of my ſelf as acceſsory to this horrid Principle. The Dregs whereof hang too much in the heads of many miſtaken moderate perſons, and ſtill continues lurking in corners, and building ſtrong holds in ſecret and ſeditious Conventicles. And to give it an hono<g ref="char:EOLhyphen"/>rable Pedigree, they make it of kin to that ancient frontiſpiece of the Common Laws of
+<hi>England, Salus populi ſuprema Lex:</hi> Where, without doubt, the King in good manners muſt needs be underſtood in the firſt place as Head of the people, and in caſe our Diviſion<g ref="char:EOLhyphen"/>mongers ſhall take the King and people as diſtinct Eſtates, it can bear no other meaning than that the health and welfare of the peo<g ref="char:EOLhyphen"/>ple is the ſtrength of the King, who is the life of the Law: But their crooked conſtructions are like bad conſtitutions, that turn the beſt of meats into the worſt of humors. And to give this popular principle the more formality and priviledge, it muſt be denizon'd by the Taile of that Serpent-Parliament (the memory whereof is only hap<g ref="char:EOLhyphen"/>py in the <hi>Act of Oblivion</hi>) and laid up in their Journal as a per<g ref="char:EOLhyphen"/>petual magazen for the fifth of <hi>November</hi> or a recruit in taile to the black and diſmal day of our late Kings murder, Your Majeſties Royal Father: Though our late combuſtions by Your Majeſties Pro<g ref="char:EOLhyphen"/>vidence and prudence are alayed for preſent, yet 'tis juſtly to be feared they will never be extinguiſhed ſo long as this Principle hath
+<pb facs="tcp:48896:3"/>one ſpark of life or being in the hearts and heads of your Majeſties ſubjects: To which the Author moſt humbly offers this expedient.</p>
+            <p>And if Your Majeſty ſhall pleaſe to give a ſecond life to him by a countenance of theſe lines with Your gracious acceptance, without doubt You will find them bear a very conſiderable part in Your Majeſties Life-guard.</p>
+            <p>But my duty to him forbids me all <hi>Encomiums,</hi> knowing how little he loved them, and how much leſſe he needs them. Now may it pleaſe Your Majeſty, ſince Your Pardon hath prevented the utmoſt darings of all mens askings, I ſhall not be deſperate of mine for aſſuming this boldneſſe, being the real effect of a heart brim full of affection and loyalty to Your moſt Sacred Majeſty, and upon that confidence ſhall preſume to beg leave to write my ſelf</p>
+            <closer>
+               <signed>Your Majeſties moſt humble and Loyal Subject, <hi>JOHN SHADWELL.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48896:3"/>
+            <head>TO THE KINGS moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>Most gracious and dread Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat ingenuous and true Loyalty which is due to your moſt Sacred Majeſty (if it can yet be as du<g ref="char:EOLhyphen"/>ly rendred) is the trueſt and ſureſt foundation of the whole peoples civil happineſs and ſafety.</p>
+            <p>That which is moſt oppoſite to that true Loyalty, is the late unchriſtian policy, moſt perniciouſly pra<g ref="char:EOLhyphen"/>ctiſed in theſe Nations, upon the falſe ground of this moſt erroneous and ſeditious Principle, <hi>That the Supreme Political power is both originally from, and ſtill inherent in the People.</hi>
+            </p>
+            <p>In the Confutation whereof (which may by ſome other be much more irrefragably done.) All theſe perſons that have from the very beginning of our late miſeries) in any Way, or in any Capacity acted (directly or indirectly) againſt your Ma<g ref="char:EOLhyphen"/>jeſties Royal Father (of ever bleſſed and moſt precious me<g ref="char:EOLhyphen"/>mory,) and againſt your moſt Sacred Majeſties own Perſon and juſt Right, will find themſelves not a little concerned. They will eaſily ſee, that, if this Principle be proved falſe, the only pretence of lawfulneſſe for all their lawleſs actings is ut<g ref="char:EOLhyphen"/>terly taken away. For even to themſelves and to all other men it is moſt apparent, (if duly conſidered,) that from this Principle aroſe the Confidence or Pretence of lawfulneſs ſo, the moſt unlawful uſurping of the power of the <hi>Militia,</hi> their taking Armes by their pretended Authority from the People, their making pretended <hi>Acts of Parliament</hi> without the Roy<g ref="char:EOLhyphen"/>al Aſſent, their moſt impudent accuſing and moſt ſcelerati<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:48896:4"/>condemning of Your Majeſties Royal Father expreſly <hi>in the name of the People,</hi> and (which was the root of all the evil) their firſt <hi>Covenanting</hi> to alter the fundamentals of Govern<g ref="char:EOLhyphen"/>ment, and to aboliſh that which ſtood fully eſtabliſhed by all the Law of <hi>England</hi> without any Concurrence of the Royal Authority, and in a forcible and violent oppoſition againſt it; their Ejecting the whole Houſe of Lords, and moſt unrighte<g ref="char:EOLhyphen"/>ous baniſhing of Your moſt Sacred Majeſty, upon pretence of ſole Soveraignty in the <hi>People,</hi> whoſe Repreſentatives they would (even in deſpight of the
+<hi>People</hi>) be then eſteemed; For all which unrighteous practiſes, and many other, moſt nefa<g ref="char:EOLhyphen"/>riouſly perpetrated againſt all Law Divine and Humane, the Authors, Actors, Abettors, and Approvers have no other pretence of Apology, (by which they yet continue in impe<g ref="char:EOLhyphen"/>nitency,) beſides their own Opinion or Diſſimulation of this moſt falſe, Antiſcriptural, and moſt ſeditious Principle. There<g ref="char:EOLhyphen"/>fore any confutation of this, will, perhaps, <hi>irritare crabrones,</hi> too much irritate the whole neſt of Hornets, with all their diſ<g ref="char:EOLhyphen"/>loyal and Antichriſtian Faction; there being but little hope of more than forced Repentance from them that have <hi>ſinned wilfully after they had received the knowledge of the truth;</hi> and hence it is, there is ſo little appearance yet of any ſuch thing. How ſeaſonable therefore ſuch a Corroſive may be to that old Sore that is but newly skinn'd, it is not eaſie for any private perſon to determine. Yet the Conſcience of my neceſſary du<g ref="char:EOLhyphen"/>ty to ſerve God and Your Majeſty, and to defend Your moſt Sacred Authority (in my way) to the uttermoſt of my power hath enforced me to this Endeavour; which I moſt humbly ſubmit to Your Majeſties Cenſure, pleaſure and Pardon, as becomes</p>
+            <closer>
+               <signed>Your Majeſties moſt devoted Servant and loweſt Subject, JOHN NOVELL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:48896:4"/>
+            <head>A Short Account of the danger of this PRINCIPLE</head>
+            <p>THis popular and looſe Doctrine was eaſily learned, and greedily ſwallowed by many undiſcerning People. And by this were they ſoone flattered into their own undoing, and made very active Contributers to their own deſtruction. They were told that Power was but derivative in the Prince, and that, of right, the Soveraignty was theirs, as properly inherent in them; And, that they could never recover their native Liberty, but by caſting off the yoke of all ſubjection to the moſt ancient and only lawful Government of the Nation; till, having loſt the be<g ref="char:EOLhyphen"/>nefit of it, and protection by it, the pretended Liberty ſhew'd it ſelf in its proper and true Colours of perfect bondage and miſery. The truth of this they have very long and very ſeverely been ſchool'd into: Nevertheleſse it is probable, that many of them are not yet aware, that, ſo long as this pernicious Principle is where it was, uncondemned, and perhaps, undiſcerned by many, the common danger of future Miſchief by it is not yet removed. <hi>I<g ref="char:EOLhyphen"/>dem quâ idem ſemper facit idem.</hi> If this, and this only hath been the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the main leading Cauſe (as indeed it hath) of the ſlavery and miſery we have long endured, there can be no abſolute and perfect Cure of theſe Evils with prevention of future danger, without a total and timely removal of that Cauſe.</p>
+            <p>This Principle then had need be fetch'd out of the hearts and the heads of the Obſtinate by a more powerful and effectual Con<g ref="char:EOLhyphen"/>futation than that which is but verbal, though never ſo Logical or Apodictical: <hi>Argumentum baculinum,</hi> or a good ſevere Law
+<pb n="2" facs="tcp:48896:5"/>againſt it, were perhaps (at ſuch a time as this) no more than neceſſary. But all they that have any thing of good in them will certainly, by arguments truly and logically deduced from the Ora<g ref="char:EOLhyphen"/>cles of God, effectually be wrought upon: Eſpecially conſidering, that ſo long as this Principle remains in any credit and uncon<g ref="char:EOLhyphen"/>demned <hi>[That the proper and perpetual Right to the power is the Peoples;]</hi> Whenſoever the multitudes of Seditious Spirits that are ſtill (though diſperſed) where they were, and the ſame men they were, and may ſecretly grow to be yet more in number, can have the opportunity to rally and (by Conſpiracy) get into a Body, though they be not the fortieth part of the Nation, they will by and by call themſelves <hi>the people:</hi> And then (next to the grand Cheat &amp; Mock<g ref="char:EOLhyphen"/>ery of ſeeming Sanctimony) by a falſe pretenſe of ſtanding up for the <hi>Peoples Right,</hi> bring the whole People (many of their own par<g ref="char:EOLhyphen"/>ty not excepted) into that (or a worſe) ruine and deſolation (if they can,) which no humane wiſdom or power without the immediate helping hand of God, could have now reſcu'd and redeem'd us from.</p>
+            <p>That damnable Principle is therefore the moſt pernicious and dadgerous Couſenage that ever any people was abuſed and deluded by. And if this were all, it were not ſo fit for one of my profeſsion to have medled with it: But, 'tis alſo a Principle of <hi>Infidelity,</hi> and of Rebellion againſt God; as being expreſſely repugnant to the general Torrent of the Teſtimonies and Inſtances contained in His written Word. And upon that preciſe account, there is here endeavoured a Confutation of it.</p>
+         </div>
+         <div type="introduction">
+            <pb n="3" facs="tcp:48896:5"/>
+            <head>AN Introduction Touching the ſtate of the <hi>Q<g ref="char:V">Ʋ</g>ESTION,</hi> WITH A Brief Explication of the <hi>Terms.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the new and ſtrange Doctrine of ſome of the late <hi>Jeſuits,</hi> (more lately reduced into Practice by Perſons profeſſing the greateſt Enmity and Op<g ref="char:EOLhyphen"/>poſition to thoſe Innovators) <hi>That the whole Po<g ref="char:EOLhyphen"/>litical Power is not only originally from, but for<g ref="char:EOLhyphen"/>mally inherent in the People. Nota, hanc Pote<g ref="char:EOLhyphen"/>statem immediatè eſſe tanquam in Subjecto, in to<g ref="char:EOLhyphen"/>ta Multitudine,</hi> ſaith one<note n="*" place="margin">Bellar. <hi>lib.</hi> 3. <hi>de</hi> Laicis. <hi>c.</hi> 6.</note>; <hi>Note, that this power is immediately in the whole people, as in the Subject of it:</hi> And, <hi>Pendet à Con<g ref="char:EOLhyphen"/>ſenſu multitudinis;</hi> It depends upon the Agreement of the people, ſaith the ſame Author. And, <hi>Poteſtas ſecularis est à Deomediatè; quia Natura &amp; Recta Ratio dictat, &amp; hominibus perſuaſit praefi<g ref="char:EOLhyphen"/>cere Reipublicae Magiſtratus,</hi> ſaith another<note n="*" place="margin">
+                  <hi>Caanel. à La<g ref="char:EOLhyphen"/>pide,</hi> in his note upon <hi>Rom.</hi> 13.1.</note>; <hi>i. e.</hi> The ſecular power is of God, but <hi>mediately;</hi> becauſe Nature and Right Rea<g ref="char:EOLhyphen"/>ſon, which is of God, doth dictate, and hath perſwaded men to ſet up Magiſtrates over the Common-wealth: But, (ſaith the ſame Author,) <hi>Poteſtas Eccleſiaſtica immediatè eſt à Deo inſtituta;</hi> The Eccleſiaſtical Power is ordained of God immediately: This is true; and ſo indeed, muſt alſo that Original Power of Paternal Re<g ref="char:EOLhyphen"/>gality needs be, which God by the Law of Nature hath ordained, and by poſitive Inſtitution ſettled, (of which his written Word gives
+<pb n="4" facs="tcp:48896:6"/>us clear, and certain Inſtances; by which alſo He hath governed the world univerſally in the firſt ages of it; and, unto which He expreſly commanded obedience to be yielded by one of the ſpecial Precepts of his moral and eternal Law, then, when there was no other kind of Civil Power extant in the world.</p>
+            <p>But this Device of <hi>Mediate</hi> derivation of the Civil Power, and <hi>immediate</hi> Inſtitution of the Eccleſiaſtick, is invented and obtruded by theſe deceitful Workers to exalt the Pope to an abſolute Soveraign<g ref="char:EOLhyphen"/>ty over all Kings and Princes; and that not only in
+<hi>Spirituals,</hi> but (by the help of that Diſtinction of <hi>not directly, but indirectly,</hi> which is juſt as good as this of <hi>not immediately, but mediately,</hi>) in all tem<g ref="char:EOLhyphen"/>poral and ſecular things and Cauſes too, as well as in Spiritual. In order to this Deſign intended by theſe Authors, and in proſecution of many other farre Different Ends deſigned by the <hi>Anabaptiſts</hi> and o<g ref="char:EOLhyphen"/>thers, the Foxes have their tails tyed together in this falſe Principle, equally common to both: which is that Fire-brand that did for ſo long a time put theſe Nations into one general Combuſtion.</p>
+            <p>The ſelf-ſame Principle was once delivered by one Dr. <hi>Doriſlaus</hi> (of infamous memory) in the Schools at <hi>Cambridge</hi> in my hearing about thirty years ſince: And had he then been puniſhed (as he was complain'd of) according to his high Demerit, and his dange<g ref="char:EOLhyphen"/>rous Doctrine publickly condemned (if it could have been) by a juſt Law, perhaps the miſchief that hath ſince enſued of it, (in which the very ſame Man had a hand) might have been prevented.</p>
+            <p>It hath alſo been more lately aſſerted by the Author of a ſeditious Pamphlet ſet forth about the beginning of our late fatal War, enti<g ref="char:EOLhyphen"/>tuled, <hi>OBSERVATIONS upon ſome of His Majeſties late Anſwers and Expreſſes;</hi> wherein the Obſervators Fundamental
+<hi>Theſis</hi> confidently preſumed and never proved, is in theſe expreſs words; <hi>Power is originally inherent in the People:</hi> And, <hi>Power is but ſecundary and derivative in Princes, the fountain and effi<g ref="char:EOLhyphen"/>cient Cauſe is the People.</hi> And laſt of all, the Author of the <hi>Ar<g ref="char:EOLhyphen"/>mies Plea</hi> (as 'twas call'd) affirmeth, <hi>That Kings have no power and authority, but what they have from the People.</hi> Still the Peo<g ref="char:EOLhyphen"/>ple are colloqued with, and made believe
+<hi>all is their own,</hi> till they are left <hi>Owners of Nothing,</hi> but <hi>at the pleaſure and allowance of</hi> their Covetous Undoers: Why ſhould I make theſe petty inſtances, when this principle is become ſo National, as to have the Counte<g ref="char:EOLhyphen"/>nance
+<pb n="5" facs="tcp:48896:6"/>of a Vote in that which was called a Parliament, as you may ſee in their Preparative to the High Court of Juſtice, <hi>Jan.</hi> 4. 1648. and the eigth of
+<hi>January,</hi> 1648. you may ſee the ſame <hi>Doriſlaus</hi> appear in his Colours, as one of the Chief Architects of that moſt Horrid Structure.</p>
+            <p>But, That there can be no other Fountain and efficient Cauſe of Civil Power and juſt Authority, but God: That it is derived to Princes <hi>immediately</hi> from God, and not ſolely or chiefly from the People: That the Special Right and Title to it, is from God alone; And, That God never gave his own glory to men, <hi>to have the giving</hi> of this Power, is that which is here endeavoured to be made ap<g ref="char:EOLhyphen"/>parent.</p>
+            <p>But firſt, a little explication of Terms, (ſuch as ſhall here occa<g ref="char:EOLhyphen"/>ſionally be mentioned,) will not be amiſs. When the word [Ma<g ref="char:EOLhyphen"/>giſtrate] is uſed, not every one that is vulgarly called by that Name is meant. The inferiour Miniſter of Juſtice, having no inherent power, but deriving all his authority by Commiſſion from the King, is not the Magiſtrate here ſpoken of. The King alone is the Magi<g ref="char:EOLhyphen"/>ſtrate (properly ſo called,) who only is that Supreme Perſon whoſe Authority is not Commiſſionary, but <hi>original, formal, inherent,</hi> and
+<hi>inexiſtent,</hi> as created in Him of God, by communicating to Him the Image and Title of his Own Dominion and Power, by which He Himſelf Governs the world: And it is of the ſame Nature (but more eminent) with that authority which a Father hath over his ſons; which depends on no Act or Deed, much leſs on any Conceſſion or Grant of theirs.</p>
+            <p>And by this it alſo appears what muſt needs be meant by the Su<g ref="char:EOLhyphen"/>preme Political Power and Authority; to wit, that Paternal and e<g ref="char:EOLhyphen"/>quitable, and (yet) full and uncontroulable Dominion over the free people of the Land, whoſe freedom conſiſts in this, that He Rules and Governs them, as the Miniſter of God, in true judge<g ref="char:EOLhyphen"/>ment and juſtice according to the known Laws, ancient Cuſtoms, and fundamental Conſtitutions of the Kingdom, and that for the Common Good, and Univerſal Benefit of all: As, a Father un<g ref="char:EOLhyphen"/>controulably governs his Children, yet for the equal and common Welfare both of Him and them.</p>
+            <p>What is meant by <hi>immediate Derivation of this Power from God,</hi> (which is often mentioned,) is next and laſt to be unfolded.
+<pb n="6" facs="tcp:48896:7"/>Things may be ſaid to be of God, or from God, divers wayes. 1. By his immediate Influx into the Eſſence of every thing, as he is the Univerſal Cauſe of all things that have a Being. 2. By his imme<g ref="char:EOLhyphen"/>diate Inſtinct, Motion, Special Help and Exciration, as <hi>He is the Father of Lights, and Giver of every good and perfect Gift;</hi> and thus he gives to his Special Miniſter the Supreme Magiſtrate, ſpecial grace, wiſdom, counſel, courage, juſtice, love to his people, and a tender care of their Welfare. 3. By his own proper Donation, Grant and Conveyance of juſt Right, Title and Intereſt; And thus the Right and juſt Title to Supreme Government and Political Pow<g ref="char:EOLhyphen"/>er, comes immediately from God to the lawful Magiſtrate; As eve<g ref="char:EOLhyphen"/>ry private Right, Title and Intereſt to or in any thing, muſt needs come to him that receives it <hi>immediately</hi> from the only juſt poſſeſſor and proper owner of it; Such as God muſt needs be of all Domini<g ref="char:EOLhyphen"/>on, Government and Rule over the Nations of the world, as their Sole Creator and Upholder. For, God (of his own right) being the only King, and (by his own Act) the immediate Governor of and in all the actual Governments and Kingdoms of the world, it incommu<g ref="char:EOLhyphen"/>nicably belongs to him to <hi>have the giving and conveying</hi> of the Right of Government to them that juſtly poſſeſs it: And, it in<g ref="char:EOLhyphen"/>communicably belonging to him <hi>to have the giving</hi> of that Right, from him <hi>immediately</hi> muſt it needs come.</p>
+            <p>This way of Derivation and Collation of Civil Authority and the Right of it <hi>directly and immediately</hi> to the Supreme Magiſtrate from God, the proper Fountain, and formal Owner, and actual Poſſeſſor of it, (who imparts it to the Supreme Magiſtrate, not by alienation from, but by communication with himſelf;) theſe enſuing Argu<g ref="char:EOLhyphen"/>ments, by vertue of that high Principle upon which they are foun<g ref="char:EOLhyphen"/>ded, <hi>the Word of God,</hi> will (it may be hoped) ſufficiently prove and ma<g ref="char:EOLhyphen"/>nifeſt to all, but ſuch as <hi>are given to change,</hi> and are led by the Phana<g ref="char:EOLhyphen"/>tick Spirit to <hi>Deſpiſe Dominion,</hi> and to count all juſt Authority, tyran<g ref="char:EOLhyphen"/>ny, if they be not allowed to take the liberty to controul it at their pleaſure, to uſe the Lords Anointed as execrably as they have lately done, and to ſhed the blood of the chief Nobility alſo, to ſatisfie their filthy Luſt.</p>
+         </div>
+         <div n="1" type="part">
+            <pb n="7" facs="tcp:48896:7"/>
+            <head>I. Exod. 22.28. <hi>Thou ſhalt not revile the Gods, nor curſe the Ruler of thy People,</hi> [or, the Prince among thy People.]</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD gives his own Name and Title to the Prince; which were utterly incongruous and incompetible, if he did not alſo communicate to him a competent pro<g ref="char:EOLhyphen"/>portion of his <hi>own</hi> authority and power. But, if God had given the whole civil Authority to the People, and the People only (and only upon their own ac<g ref="char:EOLhyphen"/>count) had given it to the Prince, by ſuch a meer extrinſecal Com<g ref="char:EOLhyphen"/>miſſion of authority from <hi>Men,</hi> how could Princes be ſtiled <hi>Gods,</hi> when thoſe men themſelves could never be ſtiled ſo?</p>
+            <p>
+               <hi>I have ſaid, Ye are Gods,</hi> likewiſe ſaith the Pſalmiſt, The rea<g ref="char:EOLhyphen"/>ſon whereof is expreſſely and purpoſely rendred by our Saviour in the Goſpel<note n="*" place="margin">Pſal. 82.6. John 10.34.</note>; Becauſe, <hi>to them the Word of God came.</hi> Which can ſignifie no leſs than that their Civil Power is given and conveyed to them by the expreſs <hi>Word of God.</hi> For it is God himſelf that ſaith by the mouth of <hi>David, I have ſaid, Ye are Gods.</hi> Therefore, <hi>Dicit Christus Reges vocari Deos, quòd munus ſuſtineant divi<g ref="char:EOLhyphen"/>nitus ſibi injunctum,</hi> ſaith <hi>Calvin</hi> rightly, upon thoſe words; that is, Chriſt affirmeth, that Kings are therefore ſtiled Gods, becauſe they bear an Office by Divine Injunction: Who will ſay, that the Peoples Election or Commiſſion (unleſs they were all Prophets) is <hi>Divine Injunction?</hi> Or who will ſay (in expreſs contradiction to the Text) that, <hi>not the Word of God,</hi> but only the word of the
+<hi>People</hi> it was that <hi>came</hi> to them? Where a Kingdom is by Cuſtom elective, the Caſe differs not. For, in this, the Act of men is on<g ref="char:EOLhyphen"/>ly inſtrumental to God: In their electing who have right to elect, God alone gives the right, and the juſt Power to govern: Which is apparent, becauſe this right and power the Electors themſelves never had, and therefore could never give it.</p>
+            <pb n="8" facs="tcp:48896:8"/>
+            <l>Briefly thus,</l>
+            <l>Whoſoever can have the giving of Supreme Political Power, can likewiſe have the giving of Gods own Name and Title;</l>
+            <l>No mortal men nor Angels in heaven can have the giving of Gods own Name and Title;</l>
+            <l>Therefore no mortal men nor Angels in heaven can have the giving of Supreme Political Power.</l>
+            <p>The Major is evident, becauſe God hath ſaid to Princes, <hi>I have ſaid, Ye are Gods,</hi> and directed his Prophets to <hi>call them Gods,</hi> for <hi>no other reaſon,</hi> but becauſe they communicate with God in that <hi>Supreme Power</hi> of Government, that principally and properly is <hi>his</hi> peculiar. Whence alſo the Minor is manifeſt, becauſe none but God, whoſe only peculiar the Power is, can, upon the account of communicating thereof to Princes, be the Giver of his own Name and Title. And therefore, ſaith our Saviour, <hi>To them the Word of God came:</hi> that is, It was God himſelf that ſaid thus to them, <hi>I have ſaid, Ye are Gods:</hi> And if he had not ſaid it, who ever durſt or could? The concluſion therefore is certain; He who alone could ſay, <hi>Ye are Gods,</hi> could really make them ſuch; that is could really communicate to them of his <hi>own</hi> Power, for which he ſo entitles them.</p>
+         </div>
+         <div n="2" type="part">
+            <head>
+               <hi>II. Rom. 13.1.</hi> Let every ſoul be Subject to the Higher Powers; or, to the
+<hi>Supreme</hi> Power.</head>
+            <p>TO ſay a <hi>Derivative</hi> Power is <hi>Supreme,</hi> is a contradiction. Therefore
+<hi>Nero's</hi> Power was not then <hi>Derivative,</hi> but (under God) <hi>Original</hi> and
+<hi>Inherent</hi> in himſelf; which it could no otherwiſe be, but by his communicating therein with God, whoſe Miniſter (the Apoſtle ſaith) he was; whereby it became as properly his
+<hi>own</hi> (againſt all other men) as wiſdom or learning, or any other quality (which God alſo is the Giver of) is <hi>his</hi> that hath it.</p>
+            <pb n="9" facs="tcp:48896:8"/>
+            <p>Upon occaſion of the Sedition of <hi>Judas</hi> of <hi>Galilee</hi> (mentioned, <hi>Acts</hi>
+5.37.) the <hi>Romans</hi> were ever apt to ſuſpect that Chriſt and his Apoſtles (being alſo <hi>Galileans</hi>) were ill-affected to <hi>Caeſar,</hi> and to the <hi>Roman Empire.</hi> Hence it was that the <hi>Phariſees</hi> ſent their Diſciples with the
+<hi>Herodians</hi> to Chriſt, thinking (with flattery and hypocriſie) to diſcover it to be his Opinion, That it was not lawful to acknowledge the Authority of the <hi>Roman</hi> King over Gods people to be taxed by him, or to pay Tribute to him; in that it might ſeem a betraying of their Liberty, as they were the ſeed of <hi>Abraham:</hi> The pretence whereof, ſpecious, and very taking, was that that drew ſo great a multitude after the <hi>Galilean</hi> Rebel.</p>
+            <p>For this Cauſe, our Saviour himſelf, and his holy Apoſtles, were as watchful upon all Occaſions to wipe off this unjuſt Aſperſion caſt up<g ref="char:EOLhyphen"/>on them.</p>
+            <p>
+               <hi>Render unto Caeſar the things that are Caeſars,</hi> ſaid our Saviour, <hi>Matth.</hi>
+22.21. Thereby declaring not only the lawfulneſs, but the juſtneſs and duneſs of
+<hi>Caeſars</hi> Tribute, even from Gods own people, the <hi>Jewes;</hi> which is plainly notified by <hi>Caeſaris,</hi> and <hi>Reddite,</hi> Ren<g ref="char:EOLhyphen"/>der it. Now if the Civil Power over the land of <hi>Judaea</hi> had been of <hi>Right</hi> in the <hi>People,</hi> that whole Nation, and
+<hi>all the World</hi> be<g ref="char:EOLhyphen"/>ſides,<note place="margin">Luke
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note> could not have been taxed to pay it (as they were) againſt their Wills, without manifeſt <hi>Injuſtice:</hi> The Tribute had in no wiſe been due to <hi>Caeſar,</hi> till it had firſt been granted by the full and free Conſent of the people. It was not their own Act, but only <hi>Caeſars</hi> De<g ref="char:EOLhyphen"/>cree, that drew it from them; yet, by our Saviours own words was this Tribute juſt and due to <hi>Caeſar,</hi> which manifeſtly ſhewes that <hi>Cae<g ref="char:EOLhyphen"/>ſars</hi> juſt Power was not depending on any Act, Grant, or Conſent of the People.</p>
+            <q>[That now Taxes are not ordinarily raiſed in this Chriſtian Monarchy without the Peoples own Act and Conſent in Par<g ref="char:EOLhyphen"/>liament, hath grown into an ancient and obliging Cuſtom now, which took its beginning (no doubt) from thoſe Chri<g ref="char:EOLhyphen"/>ſtian Principles in our Chriſtian Kings, which are of greater perfection, than what the Rules of meer Civil Juſtice do re<g ref="char:EOLhyphen"/>quire, which infers not any dependance of the Kingly Office and Authority on the Conſent or Will of the People.]</q>
+            <pb n="10" facs="tcp:48896:9"/>
+            <p>And as Chriſt himſelf, ſo his Apoſtle <hi>Paul</hi> writing here to the
+<hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> endeavours in like manner to evidence to the World, That Chriſtians were no way guilty of the <hi>Galilean</hi> Hereſie (as the Anci<g ref="char:EOLhyphen"/>ents call'd it:) And therefore doth here effectually move the Chriſti<g ref="char:EOLhyphen"/>ans to yield Obedience and Subjection to the <hi>Roman</hi> King, though then an Infidel, and afterward<note n="*" place="margin">For this E<g ref="char:EOLhyphen"/>piſtle was writ<g ref="char:EOLhyphen"/>ten in
+<hi>Quin<g ref="char:EOLhyphen"/>quennio Neronis</hi>
+               </note> a fierce Enemy, and a Perſecutor of the Church. To this Duty he ſtirs them up by divers convincing Ar<g ref="char:EOLhyphen"/>guments, whereof the firſt is to this effect.</p>
+            <p>
+               <list type="syllogism">
+                  <item>All Power that is of God muſt every ſoul be ſubject to.</item>
+                  <item>But the Power of the <hi>Roman</hi> King is of God: Therefore,</item>
+                  <item>The Power of the <hi>Roman</hi> King muſt every ſoul be ſubject to.</item>
+               </list>
+            </p>
+            <p>Here, our later Polititians could (for a need) have helped the Chriſtians (if they had had a Will to Rebel) to ſuch a near diſtin<g ref="char:EOLhyphen"/>ction upon the <hi>Minor,</hi> as ſhould have utterly repelled the force of the Apoſtles Argument; <hi>viz.</hi> Power is of God two wayes; either
+<hi>mediately</hi> or <hi>immediately:</hi> And would have taught the people to ap<g ref="char:EOLhyphen"/>ply it thus; If
+<hi>Caeſars</hi> Power were of God by <hi>immediate</hi> deriva<g ref="char:EOLhyphen"/>tion of it from
+<hi>himſelf,</hi> then indeed it were not for men to reverſe it, or to diſobey it: But ſince it is of God (according to the new diſ<g ref="char:EOLhyphen"/>covery) but only <hi>mediately,</hi> that is, only by and through the agree<g ref="char:EOLhyphen"/>ment of the people, to transfer that Power to the Magiſtrate, which God had firſt and originally given to them alone in this caſe <hi>(O Paul!)</hi> the Power of our King being no otherwiſe from God, but <hi>thus,</hi> We the people <hi>that gave it to him,</hi> and ſtill have it inherent in our ſelves, as <hi>in the Subject of it,</hi> may not only diſobey it in him, but take it from him if we think good (as they that can grant a Commiſſion, can recall it when they will) and then give it to whom we pleaſe, or take it into our own hands again.</p>
+            <p>Whoſoever therefore will believe there is any thing in that diſtin<g ref="char:EOLhyphen"/>ction, and that God who gives life, health, ſtrength, wiſdom, grace, goodneſs, and every thing elſe
+<hi>immediately</hi> by himſelf, doth not give <hi>this</hi> ſo too, will (by an avoidable conſequence) make but a weak Logician of the holy Apoſtle.</p>
+            <p>But the Wiſdom of God by which the Apoſtle was directed, hath ſo ordered his words, as to prevent this furilous Evaſion! For, he ſo af<g ref="char:EOLhyphen"/>firmeth the Power of the King to be from God, as (withall) ex<g ref="char:EOLhyphen"/>preſly
+<pb n="11" facs="tcp:48896:9"/>to deny it to be from <hi>any other:</hi> The words run thus;
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Which can be rendred, ſtrictly and <hi>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>batim,</hi> no otherwiſe but thus: <hi>The Power is not, but from God:</hi> Or, <hi>There is not Power, but from God:</hi> Which is a flat denial, that the Pow<g ref="char:EOLhyphen"/>er there ſpoken of, is at all from <hi>men.</hi> And therefore, to ſay it is <hi>not only from God,</hi> but alſo, and more <hi>immediately</hi> from the <hi>people,</hi> is not only the expreſs Contradictory to the Apoſtles Aſſertion, but quite deſtroyes the <hi>Reaſon</hi> involved in it: For, if the Supreme Pow<g ref="char:EOLhyphen"/>er of the Prince be from the people, and no more directly and imme<g ref="char:EOLhyphen"/>diately from God, then theſe things are that come by ſecond Cauſes, <hi>That there is no Power but of God,</hi> is no more a Reaſon why every ſoul ſhould be ſubject to the Power of
+<hi>Caeſar,</hi> than to the command of a Robber; for this alſo is <hi>mediately</hi> from God, in that the mans <hi>Nature</hi> and <hi>Reaſon</hi> is from him by which he commands.</p>
+         </div>
+         <div n="3" type="part">
+            <head>
+               <hi>III. Rom. 13.4.</hi> He is the Miniſter of God.</head>
+            <p>IF the Supreme Magiſtrate be <hi>Gods</hi> Miniſter, then is he not the <hi>peoples;</hi> as he needs muſt, if he received his power <hi>immediately from them:</hi> Then alſo the whole people themſelves muſt needs be <hi>principal</hi> (under God) in the governing of their own Civil Body; and conſequently all Government muſt of <hi>neceſſity</hi> be
+<hi>De<g ref="char:EOLhyphen"/>mocratical.</hi> For even in a ſimple <hi>Democracy</hi> (if any ſuch be) the whole people being utterly incapable of doing any Act of Govern<g ref="char:EOLhyphen"/>ment <hi>themſelves</hi> (in their univerſal Body) muſt needs govern by ſome One, or ſome few deputed and impowred by them. If then in an ancient and lawful Monarchy, the King or Monarch were but the <hi>peoples</hi> Miniſter or Deputy, and only <hi>by them</hi> impowred, Monar<g ref="char:EOLhyphen"/>chy and Democracy were
+<hi>formally</hi> the ſelf-ſame, and no real, or ſo much as <hi>formal</hi> difference between them; which were manifeſtly falſe and contradictory.</p>
+            <p>
+               <list type="syllogism">
+                  <item>Whoſoever hath his Authority to govern <hi>from the people,</hi> is the peoples Miniſter in governing themſelves.</item>
+                  <item>
+                     <pb n="12" facs="tcp:48896:10"/>The Miniſter of God in governing the people, is not the peo<g ref="char:EOLhyphen"/>ples Miniſter in governing themſelves: Therefore,</item>
+                  <item>The Miniſter of God in governing the people hath not his Authority to govern from the people; [But conſequently, <hi>from God himſelf.</hi>]</item>
+               </list>
+            </p>
+            <p>If this Miniſter of God were the <hi>peoples</hi> Miniſter, then not only God, but the
+<hi>people were principal in inflicting death;</hi> which no Angel nor man, but as Gods Miniſter only, is any more capable of than of giving life. God only is the Lord of life: Therefore, as the whole peo<g ref="char:EOLhyphen"/>ple cannot give to one man life, ſo neither can the whole people have a juſt power to take it away. None can juſtly deſtroy Gods image, but God, let the Cauſe be what it will: And the power which the people have not, they cannot give. It is therefore God alone, and not the people, that gives to the Supreme Magiſtrate, the Power to <hi>execute wrath,</hi> and to puniſh with death.</p>
+         </div>
+         <div n="4" type="part">
+            <head>
+               <hi>IV. Judg. 7.20.</hi> The Sword of the Lord, and of Gideon.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the whole Word of God there is neither mention nor intimation of any ſuch thing as the Power of the Sword <hi>in or from the people:</hi> But as here, <hi>The Lord and Gideon;</hi> ſo the Lord and the chief Magiſtrate (ſuch as <hi>Gideon</hi> was then made) are only mentioned in Scripture to have any intereſt in that Power.</p>
+            <p>
+               <list type="syllogism">
+                  <item>Whatſoever power is in the people, is in them either princi<g ref="char:EOLhyphen"/>pally or miniſterially.</item>
+                  <item>The power of the Sword is not in the people either of theſe wayes.</item>
+                  <item>Therefore, it is not at all in them.</item>
+               </list>
+            </p>
+            <p>The diſjunction is undeniable: The <hi>Minor</hi> is apparently true in reſpect of both; for the <hi>principal</hi> power of the Sword can be in
+<pb n="13" facs="tcp:48896:10"/>none but God; and the <hi>Ministerial</hi> power of it can be in none but Gods
+<hi>Miniſter.</hi>
+            </p>
+            <p>The Concluſion therefore is infallible, The power of the Sword is not at all in the people.</p>
+            <p>And if this power be not in them, which all political power doth either conſiſt in, or depend upon, what other power can be, where that of the Sword cannot.</p>
+            <p>Yet the Phanatick Spirit had of late taught many weak people to believe, That the peoples
+<hi>Repreſentative</hi> (though really not that) was the only <hi>Supreme Authority of the Nation</hi> (as they commonly call'd the late Authours of our greateſt evils.)</p>
+            <p>But if (what was phanſied) the <hi>peoples Repreſentative</hi> by their own choice, were the only Supreme, and the only juſt Authority in every Nation; and conſequently, the Kingly Office and Govern<g ref="char:EOLhyphen"/>ment in it ſelf unjuſt, and inconſiſtent with Liberty; (as all out Republican Zelots commonly aſſerted) then all theſe conſequences are inevitable; <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> That if Juſtice did everywhere obtain, which God doth eve<g ref="char:EOLhyphen"/>rywhere command; that is, If Gods own Will were done, he muſt needs loſe his own glory to be <hi>King of Kings;</hi> for there would be never a King in all the World beſide himſelf.</p>
+            <p>
+               <hi>Secondly,</hi> That God, no leſs the Worlds immediate Governour, than its Creatour, having generally goven'd it ever ſince the Creati<g ref="char:EOLhyphen"/>on of it, by the <hi>Monarchical</hi> (which is really the ſame with the Pa<g ref="char:EOLhyphen"/>ternal and Patriarchal) power, hath been all this while to ſeek how to govern it in the only juſt and good; that is, in the pure Democra<g ref="char:EOLhyphen"/>tical, or ſimple Republican way, or by Succeſſions of Repreſenta<g ref="char:EOLhyphen"/>tives, or no man knowes what; for which there hath never yet been one Example in the World.</p>
+            <p>
+               <hi>Thirdly,</hi> That all the good Kings of <hi>Iſrael</hi> (as well as the bad) and all thoſe Kings and Queens over Chriſtian Nations, who God did promiſe ſhould be nurſing Fathers, and nurſing Mothers to his Church, were, and are (all and every one of them, even Queen
+<hi>Elizabeth</hi> among the reſt) wicked and unrighteous perſons; that is, Tyrannical, and unjuſt Invaders of the peoples Right, and Subverters of their Native Liberty.</p>
+            <p>
+               <hi>Fourthly,</hi> That Gods promiſe in that particular, muſt, or of right ought to have been totally diſappointed.</p>
+            <pb n="16" facs="tcp:48896:11"/>
+            <p>
+               <hi>Fifthly,</hi> That God himſelf was then the Authour of injuſtice and Tyranny, when he ſent his Prophets to anoint <hi>Saul</hi> and <hi>David,</hi> and <hi>Solomon,</hi> and
+<hi>Hazael,</hi> and divers other Kings.</p>
+            <p>Theſe, and many other irrational and intolerable conſequences muſt unavoidably follow, if it were true, That the peoples juſt Right and Liberty did only and formally conſiſt in having the Supremacy of all Civil power in their own hands, or at their diſpoſal.</p>
+            <p>Another vulgar Errour conſequent to the former was, That the good of the people is not at all concerned in the Supremacy of power <hi>re<g ref="char:EOLhyphen"/>ſiding in the Prince;</hi> and that the Kings Prerogative is to them no priviledge; but (in all) a prejudice (as they were ſenſleſly made believe) to publick Intereſt and Liberty.</p>
+            <p>The Kings Majeſty, in virtue of His Supremacy, hath the Preroga<g ref="char:EOLhyphen"/>tive power as well of diſſolving, as of calling Parliaments. If ſuch a Parliament ſhould come (which God avert!) as ſhould begin to do what the late long Parliament hath done, the Nation would then ſcon learn to believe, That the Kings Prerogative to diſſolve ſuch a Parliament, would do them no harm.</p>
+            <p>The great end of Government, and of the Supreme Kingly Pre<g ref="char:EOLhyphen"/>rogative and power, is (doubtleſs) the general Welfare of the people. Therefore moſt aſſuredly, in ſuch an anciently conſtituted Kingdom, and after ſo many Lawes and Charters, ſecuring for ever the peoples Intereſt and Liberty; no underſtanding man will now be made believe (after the late horrid deluſion) That there is any an<g ref="char:EOLhyphen"/>cient and legal Prerogative or power belonging to the King; but is certainly (though not viſibly to all) conducing directly to the general good and welfare of the people.</p>
+            <p>If the due Adminiſtration of Juſtice by the power of the Sword, and of the Lawes of the Land, againſt all wrong-doers, and againſt all perturbators of the publick Peace (in what place of capacity ſo<g ref="char:EOLhyphen"/>ever) be for the general good of the whole people, then aſſuredly, the greater the Supreme Governers power and Prerogative is, the greater is the <hi>whole</hi> peoples preſent ſafety, and future ſecurity. And for this cauſe it is, that God hath given (not another, but)
+<hi>his own Sword</hi> to his ſole Vice-gerent, the Supreme Magiſtrate. <hi>The Sword of the Lord, and of Gideon.</hi>
+            </p>
+         </div>
+         <div n="5" type="part">
+            <pb n="15" facs="tcp:48896:11"/>
+            <head>
+               <hi>V. Numb. 27.16, 17, 18, 19.</hi> Let the Lord, the God of the Spirits of all fleſh, ſet a man over the Congregation, which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in, that the Con<g ref="char:EOLhyphen"/>gregation of the Lord be not as ſheep which have no ſhepheard. And the Lord ſaid unto Moſes, Take thee Joſhua the ſonne of Nun, &amp;c. And ſet him before Eleazer the Prieſt, &amp;c.</head>
+            <p>FRom all which words it is apparent, Firſt, That the Lord is the immediate Author and Donor of the Civil Power and Authority: Secondly, that (becauſe this authority is derived <hi>immediately from God</hi> to the Prince,) the Prophet and the Prieſt were here appointed the ſpecial Miniſters of God in the actual Conferring of it. As (in token that God is the proper fountain of this Power) Chriſtian Kings have uſually had the Crown ſet on their Heads by the Metroplitan Biſhop, as the chief Miniſter of Chriſt, who is (now, as <hi>man</hi>) the <hi>King of Kings and Lord of Lords.</hi> Third<g ref="char:EOLhyphen"/>ly, that the Civil Authority and juſt power of Government could not be given by the <hi>people.</hi> For, the Lords ſetting of a man over them, is here repreſented as the ſole Expedient, by which they could eſcape that fatal Evil, of <hi>being as ſheep that have no Shepherd.</hi> From whence the illation is evident and certain, That (if God had left them to <hi>themſelves,</hi>) they had been veſted with no Civil power, which they could (of themſelves) have transferred to One or More. For being in themſelves (without a Prince) in a ſtate of actual <hi>Anarchy,</hi> they were no more united in a <hi>Civil Body,</hi> (without which there can be no <hi>Civil Power</hi>) than <hi>Sheep</hi> can be one Flock in one Fould
+<hi>with<g ref="char:EOLhyphen"/>out a ſhepherd.</hi>
+            </p>
+            <p>Nevertheleſſe, the Authors of the new Policy well enough diſ<g ref="char:EOLhyphen"/>cerning how hard it would be to maintain, there could ever, in any time in which the meere imaginary <hi>founding if Authorities</hi> is dream<g ref="char:EOLhyphen"/>ed of by ſome,) be any real and formal power of Magiſtracy inhe<g ref="char:EOLhyphen"/>rent
+<pb n="16" facs="tcp:48896:12"/>in a <hi>people</hi> (without a <hi>Prince;</hi>) and the impoſſibility of a peoples conferring that to Others which they never had themſelves; to pre<g ref="char:EOLhyphen"/>vent (if they can) a manifeſt Conviction, think to make their Eſcape by a nice Metaphyſical diſtinction of
+<hi>Act</hi> and <hi>Habit;</hi> and anſwer, That the people (indeed) never had the power <hi>in Act,</hi> but yet, in <hi>ha<g ref="char:EOLhyphen"/>bit</hi> they had, and ever have it.</p>
+            <p>But, (if this be ſo) when they come <hi>actually to conferre it,</hi> (which is a dream, and never done,) can they do <hi>that Act</hi> by it, and yet have it but in <hi>habit only?</hi>
+            </p>
+            <p>Or, may not this prove a <hi>Distinction without a difference?</hi> For here indeed, the Diſpute is not of the <hi>actual</hi> adminiſtration and <hi>pra<g ref="char:EOLhyphen"/>ctice,</hi> but, of the
+<hi>power it ſelf;</hi> that is, not of the power <hi>in actu ſecundo,</hi> or Execution, (which on both ſides is confeſſed to be only in the Magiſtrate,) but of the power <hi>in astu primo,</hi> or Exiſtence in it ſelf; and in this there can be no difference at all between
+<hi>Act</hi> and <hi>habit;</hi> And therefore to ſay, the people have it in <hi>habit,</hi> but they have it not in <hi>act,</hi> is an unavoidable Contradiction, <hi>They have it, and they have it not.</hi>
+            </p>
+            <p>
+               <list type="syllogism">
+                  <item>What the people never had, could never by them be transferred to the Prince.</item>
+                  <item>But the Supream authority the people never had; Therefore;</item>
+                  <item>The Supreme authority could never by <hi>them</hi> bee transferred to the Prince.</item>
+               </list>
+            </p>
+            <p>Conſequently, the Soveraign Prince muſt needs receive it imme<g ref="char:EOLhyphen"/>diately from God.</p>
+            <p>The truth of the Major appears by a manifeſt Rule in Philoſophy and common Reaſon it ſelfe; <hi>Nothing can give what it ſelfe hath not, either formally, or Eminently.</hi> The Minor is alſo apparent, in that the people have not, nor ever had the Supreme authority
+<hi>either of theſe wayes;</hi> not <hi>Eminently,</hi> becauſe it can be <hi>eminently</hi> competible to none but <hi>God.</hi> For the Supream Civil authority is eminently con<g ref="char:EOLhyphen"/>teined in the
+<hi>Divine,</hi> and in no other; Not <hi>Formally,</hi> unleſs they could (at once) be Prince and people too; that is, unleſs it were poſſible for them to be the <hi>formal</hi> Governours of their own Selves, in their whole collective Body. Therefore they no way have, nor ever had it; And Conſequently, it never could by them be tranſ<g ref="char:EOLhyphen"/>ferred to the Prince.</p>
+         </div>
+         <div n="6" type="part">
+            <pb n="17" facs="tcp:48896:12"/>
+            <head>VI. Prov. 8.15. <hi>By me,</hi> [or, <hi>in</hi> me] <hi>Kings reign.</hi>
+            </head>
+            <p>IF the Supreme Civil power were in the people or any way depen<g ref="char:EOLhyphen"/>ding upon their will and pleaſure, it muſt neceſſarily follow, that this ſpecial Ordinance and work of God, ſhould be as muta<g ref="char:EOLhyphen"/>ble as the mindes of men, and lyable to be put by and diſappointed upon every alteration of the moſt unſtable Opinion of the giddy Multitude; eſpecially, of the more ſubtile, active, ambitious, and buſie-headed party. If theſe will tranſlate the Supreme power for rather the Empty Name and Shadow of it,) from the King to the two Houſes (that had ſworn ſubjection to it,) and then from two to one, and then from that one to a (falſely called) <hi>Protector,</hi> and then (repenting of that) turn it into other hands, God muſt (all along) wait upon their unconſtancy (even in their foul iniquity,) not only with his
+<hi>Providence permitting,</hi> but alſo with his <hi>Ordinance legiti<g ref="char:EOLhyphen"/>mating</hi> whatſoever
+<hi>new</hi> or <hi>no</hi> form of Government the wickedneſs of ſome, and the weakneſſe of others ſhall put them upon.</p>
+            <p>That which ſuppoſeth the ſpecial Ordinance and Operation of God to depend upon the inconſtancy of men in their unrighteous wayes, is impious and falſe;</p>
+            <p>But, that Kings reigning by the ſpecial Ordinance and Co-opera<g ref="char:EOLhyphen"/>tion of God, ſhould have their power of reigning from the plea<g ref="char:EOLhyphen"/>ſure of the people, ſuppoſeth the ſpecial Ordinance and Operation of God, to depend upon the inconſtancy of men in their unrighte<g ref="char:EOLhyphen"/>ous wayes, Therefore,</p>
+            <p>That Kings reigning by the ſpecial Ordinance and Operation of God, ſhould have their power of reigning from the pleaſure of the people, is impious and falſe.</p>
+            <p>The major cannot at all be doubted of, nor yet the minor, by ſuch as will oblerve, that
+<hi>Solomon</hi> reckons it for one of the <hi>Glories</hi> and <hi>Special Excellencies</hi> of God, that, <hi>By him, Kings reign.</hi> And this can ſignify no leſſe, than that the reigne of Kings is by the ſpecial Operation and <hi>Ordinance</hi> of God; (as S. <hi>Paul</hi> ſaith it is.) If then the
+<pb n="18" facs="tcp:48896:13"/>Reign of Kings were <hi>penes populum,</hi> in the Power, and at the plea<g ref="char:EOLhyphen"/>ſure of the people, ſo were alſo that ſpecial Operation and Ordinance of God by which they reign; which, as it is apparently falſe, ſo were it groſs impiety to imagine it to be true.</p>
+         </div>
+         <div n="7" type="part">
+            <head>
+               <hi>VII. 1 Sam. 24.5.</hi> It came to paſs afterward, that Davids heart ſmote him, becauſe he had cut off Sauls skirt.</head>
+            <p>YET, when our late political (that is, Atheiſtical) Parricides ſpared not to cut off their Kings <hi>head,</hi> their wicked hearts were never troubled at it: Nor have many, if any of them, or of their cloſe Adherents and parties to the ſame faction, yet profeſs'd any remorſe or ſorrow for what they have done: but ſtill ſeek to cheat the world and their own ſoules with the meer <hi>form of Godlineſse</hi> and phariſaical Oſtentation of more than ordinary Sancti<g ref="char:EOLhyphen"/>mony, and ſtill hold on in their old way of juſtifying themſelves, in their farr greater by condemning ſome (ſmaller) <hi>ſinnes</hi> in others, (as they account the ſetting up of a May-pole, the meer drinking of a health, and the like;) As if our Saviour had never condemn'd this ſoul hypocriſy, of ſpying <hi>motes</hi> in the eyes of others, when huge <hi>beams</hi> are in their own.</p>
+            <p>
+               <hi>But, Obſerve the words that follow,</hi> verſ. <hi>6.</hi>
+               <q>And David ſaid un<g ref="char:EOLhyphen"/>to his men. The Lord forbid, that I ſhould do this thing unto my Master, the Lords Anointed, to stretch forth my hand againſt him, ſeeing he is the Anointed of the Lord.</q>
+            </p>
+            <p>Here the people had all the Cauſe in the world (if any cauſe could, or can be,) to withdraw their Allegiance, and to call home the So<g ref="char:EOLhyphen"/>veraign Power into their own hands, if there had been any ſuch thing to be done. <hi>Saul</hi> their King was then a wicked man, a Tyrant, a Perſecutor of holy <hi>David,</hi> a man forſaken of God, and evidently acted by the Devil; Yet here we ſee no <hi>depoſing</hi> (much leſſe <hi>murde<g ref="char:EOLhyphen"/>ring</hi>) of him. Nay, <hi>David,</hi> who was now in <hi>Sauls</hi> ſtead anointed
+<pb n="19" facs="tcp:48896:13"/>King, durſt not here ſtretch forth his hand againſt him, to impriſon him, or to do him any harme; (his heart quaked when he had but onely cut off the skirt of his Robe.)</p>
+            <p>What would our new Polititians have done in the like caſe? They would have looked upon the Opportunity as a Divine warranty to do the miſchief; and have told the world afterward, <hi>That God put it into their hands;</hi> and, <hi>it was ſet upon their ſpirits;</hi> and their proſperous ſucceſſe in it was <hi>the good hand of God,</hi> and <hi>the anſwer of prayers;</hi> (Three or four of the beſt of the <hi>new Rules</hi> of ſeeming Righteouſneſs, fitted for the juſtification of all their <hi>Lawleſse</hi> acting by that wicked <hi>Princi<g ref="char:EOLhyphen"/>ple</hi> we here diſpute againſt.)</p>
+            <p>But (here in the text) we find all tenderneſſe ſhewed by <hi>David</hi> to <hi>Saul;</hi> though <hi>God had put it into Davids hand,</hi> and <hi>it was ſet</hi> (by the Devil) <hi>upon the spirits of Davids ſervants</hi> to deſtroy him. And all this care which <hi>David</hi> took to ſtay his ſervants from riſing againſt <hi>Saul,</hi> was, becauſe <hi>Saul</hi> (however then rejected of God) remained ſtill <hi>the Lords Anointed; — ſeeing he is the Anointed of the Lord.</hi>
+            </p>
+            <p>Now, if Kings be the Lords Anointed, and their ſpecial <hi>anoin<g ref="char:EOLhyphen"/>ting</hi> be that by which they are formally made <hi>Kings,</hi> then nothing can be more manifeſt than that they are made ſuch <hi>immediately by God.</hi> For, the <hi>outward</hi> anointing (of old) was but a
+<hi>Ceremony;</hi> the <hi>real</hi> and <hi>ſubſtantial</hi> unction by which Kings then were (and now are) for<g ref="char:EOLhyphen"/>mally conſtituted, the <hi>Lords Anointed,</hi> could be (or can be) no other but the <hi>formal Authority</hi> and ſupreme <hi>Power</hi> inherently veſted in them. And, To ſignify the derivation of this <hi>from God immediate<g ref="char:EOLhyphen"/>ly,</hi> the outward unction was ever miniſtred by a ſpecial meſſenger <hi>im<g ref="char:EOLhyphen"/>mediately ſent from God;</hi> (the people doing nothing in it, nor know<g ref="char:EOLhyphen"/>ing of it,) But ſince it is apparent that the Authority it ſelf is the
+<hi>real</hi> anointing, (though the Ceremony be never had) the King is there<g ref="char:EOLhyphen"/>by formally conſtituted the <hi>Lords Annointed.</hi> Conſequently all Chriſtian Kings at this day are the <hi>Lords Anointed,</hi> as well, and as really, as thoſe that were anointed with outward oil by Prophets ſent ro m God. And this, though manifeſt enough in it ſelf, is alſo pro<g ref="char:EOLhyphen"/>ved by the example of <hi>Cyrus;</hi> who though never anointed by a Pro<g ref="char:EOLhyphen"/>phet with outward oil, was nevertheleſſe the Lords Anointed. <hi>Iſa.</hi> 45.1. <hi>Thus ſaith the Lord to his Anointed, to Cyrus, &amp;c. He</hi> was the Lords Anointed, as having the ſupreme authority of a King, by which he was enabled to be a powerful deliverer of Gods people; Much
+<pb n="20" facs="tcp:48896:14"/>more then are all Chriſtian Kings the Lords Anointed, as having the ſame Kingly power by which they are enabled to be the <hi>nurſing Fathers</hi> of the Church.</p>
+            <p>
+               <list type="syllogism">
+                  <item>Whoſoever are the <hi>Lords Anointed,</hi> do receive their un<g ref="char:EOLhyphen"/>ction <hi>immediately from God.</hi>
+                  </item>
+                  <item>All Kings are the Lords Anointed. Therefore,</item>
+                  <item>All Kings do receive their unction immediately from God.</item>
+               </list>
+            </p>
+            <p>The <hi>Minor</hi> is confirmed by as many clear Teſtimonies of holy Scripture, as the moſt of thoſe Divine Verities which we undoubted<g ref="char:EOLhyphen"/>ly believe. And it is evident in it ſelf, That in as much as thoſe Kings that are recorded in Scripture to be the <hi>Lords Anointed,</hi> were ſuch in no other capacity, but <hi>as they were Kings, all Kings</hi> muſt needs be ſuch by the known Rule.</p>
+            <p>Nor can the <hi>Major</hi> be doubted of, ſince it is not at all (or not <hi>only</hi>) the
+<hi>outward,</hi> but the <hi>inward and immaterial</hi> unction of So<g ref="char:EOLhyphen"/>veraign Authority, by which Kings are really and formally <hi>the Lords Anointed;</hi> and that which is <hi>inward</hi> and
+<hi>immaterial,</hi> God only can be the immediate Giver and Creator of.</p>
+         </div>
+         <div n="8" type="part">
+            <head>VIII. 1 Sam. 8.4, 5.</head>
+            <p>WHEN the people of <hi>Iſrael</hi> deſired a King, they never ſo much as pretended to any Soveraign Authority in them<g ref="char:EOLhyphen"/>ſelves, which they would transfer <hi>in aliquem unum</hi> (as is ſaid) and ſo ſet up a King of their own making. If the people had had any ſuch original power in them<g ref="char:EOLhyphen"/>ſelves, they were then in a two-fold diſpoſition to make uſe of
+<hi>that,</hi> without any more ado.</p>
+            <p>For firſt, They were <hi>Gens Prophetica,</hi> beſide their natural Sagaci<g ref="char:EOLhyphen"/>ty, they were a Learned and Prophetick Nation, and could not be ig<g ref="char:EOLhyphen"/>norant of <hi>Jus naturate,</hi> of any natural right and power they had of themſelves to ſet up a King, had there been any ſuch.</p>
+            <pb n="21" facs="tcp:48896:14"/>
+            <p>Secondly, They were in this very thing rebellious againſt the Lord, and therefore not over-ſcrupulous of adventuring of themſelves to ſet up a King, if they had known themſelves to have had original power of their own ſo to do. But, though they met with a ſtrong Repulſe, by which they had occaſion to plead their Right, they never ſo much as mentioned any ſuch Right or power of their own; but they only went and made their Addreſs to <hi>God,</hi> That
+<hi>he</hi> would ſet a King over them; and accordingly, <hi>Behold</hi> (ſaid <hi>Samuel</hi>)
+<hi>the Lord hath given you a King,</hi> 1 Sam. 12.13.</p>
+            <p>
+               <list type="syllogism">
+                  <item>Whatſoever is incommunicably in God, is not at all in men.</item>
+                  <item>The Original and only Right of erecting a Monarchy, and ſetting up a King, is incommunicably in God. There<g ref="char:EOLhyphen"/>fore,</item>
+                  <item>It is not at all in men.</item>
+               </list>
+            </p>
+            <p>The <hi>Major</hi> is evident: And the truth of the <hi>Minor</hi> alſo is clearly ſeen in that famous inſtance, and in many other; as in Gods anointing and ſetting up <hi>David</hi> (afterwards) by his own immediate Act, to be King inſtead of <hi>Saul.</hi> This he did, not at ſecond hand, but immediately by his <hi>own,</hi> without and before any Act of the people touching that Affair, as appears, 1 <hi>Sam.</hi> 16.1, <hi>&amp;c.</hi> eſpecially,
+<hi>ver.</hi> 12, 13. And this appears alſo by Gods giving (without the conſent of the people, and before they knew it) the Kingdom of the ten Tribes to <hi>Jeroboam,</hi> 1 <hi>Kings</hi>
+11.31. and <hi>ver.</hi> 35. and <hi>ver.</hi> 37. and alſo <hi>Chap.</hi> 12.24.</p>
+            <p>Therefore though it be ſaid that the people made <hi>David</hi> King, 2 <hi>Sam.</hi> 2.4. and ſo <hi>Jeroboam,</hi> 1 <hi>Kings</hi> 12.20. yet we ſee how ap<g ref="char:EOLhyphen"/>parent it is, that thoſe Kings had their <hi>Right from God,</hi> without and before any conſent or knowledge of the people.</p>
+         </div>
+         <div n="9" type="part">
+            <pb n="22" facs="tcp:48896:15"/>
+            <head>
+               <hi>IX. Dan. 2.21, 22.</hi> He changeth the times and the ſeaſons; He removeth Kings, and ſetteth up Kings; He giveth Wiſdom to the Wiſe, and Knowledge to them that know understanding; He revealed deep and ſecret things; He knoweth what is in the dark, and the light dwelleth with him.</head>
+            <p>THAT which is principally intended by the Prophet here (as the Context evidently ſhewes) is to celebrate the praiſe of God, as the only Authour of ſetting up in Succeſ<g ref="char:EOLhyphen"/>ſion the ſeveral Monarchies of the World: And to make it evident, that <hi>to do this,</hi> belongs to none but God, he compares it with theſe other Prerogatives of his, which are apparently belonging ſo to him, as that <hi>no other</hi> can have any thing to do in them: For who can have any thing to do in changing the times and the ſeaſons which God hath put in his own power<note n="*" place="margin">Acts 1.7.</note>? Who but God alone can be the Giver of Wiſdom and Knowledge? Who can reveal Secrets, that are abſolutely ſuch (ſuch as the knowledge of the future Monarchies, and the meaning of a forgotten dream concerning them) but God alone? Who beſides him, or with him, can tell what is in the dark? Who then (if <hi>Daniels</hi> parallel here made be true) can have the right or the power to <hi>remove Kings, and to ſet up Kings,</hi> but God alone? His meaning muſt neceſſarily be, that <hi>men</hi> can have no more to do in <hi>this,</hi> than in thoſe other ſpecial Prerogatives of God, in any of which they can be (at moſt) but
+<hi>inſtrumental;</hi> which ſigni<g ref="char:EOLhyphen"/>fies nothing to the purpoſe, ſave that it infers a neceſſity of Gods im<g ref="char:EOLhyphen"/>mediate Eſſiciency, as of the principal Cauſe, without whoſe imme<g ref="char:EOLhyphen"/>diate Concurrence, the Inſtrumental operates nothing at all.</p>
+            <p>And if the people cannot be principal, or other than meerly in<g ref="char:EOLhyphen"/>ſtrumental in the
+<hi>Fact,</hi> they can have no pretence of intereſt in the
+<pb n="23" facs="tcp:48896:15"/>
+               <hi>Right.</hi> The <hi>Right</hi> therefore, that is, the lawful Power and juſt Au<g ref="char:EOLhyphen"/>thority of removing Kings, and ſetting up Kings, can in no wiſe belong unto
+<hi>them,</hi> but preciſely and incommunicably to <hi>God alone.</hi>
+            </p>
+            <p>
+               <list type="syllogism">
+                  <item>No proper Right, and ſpecial Prerogative of God is at all belonging to men: But,</item>
+                  <item>The juſt power to <hi>remove Kings, and ſet up Kings,</hi> is the proper Right, and ſpecial Prerogative of God. <hi>Ergo.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The <hi>Major</hi> is evident in it ſelf; the <hi>Minor</hi> is clearly evin<g ref="char:EOLhyphen"/>ced by the Text alledged; the Concluſion then is certain and infal<g ref="char:EOLhyphen"/>lible; <hi>viz.</hi> The juſt power <hi>to remove Kings, and ſet up Kings,</hi> is not at all belonging to <hi>men.</hi>
+            </p>
+            <p>From whence it followes, That if a whole people, and much more, if a prevailing Party (againſt the will, and to the extream regret of the whole) ſhall <hi>(de facto)</hi> not only remove, but murder their lawful King (all the aggravations of that Monſter<g ref="char:EOLhyphen"/>ſin duly weighed) they can be no leſs wicked, than the worſt wickedneſs can make them, except that of deſperation, and fi<g ref="char:EOLhyphen"/>nal impenitency: For in that wilful, deliberate and affected A<g ref="char:EOLhyphen"/>nomy, wherein all Law, Divine and Humane, is knowingly tranſgreſſed (beſide the greateſt wrong done to the Beſt of men) they boldly aſſault Heaven, and invade the proper Right and ſpe<g ref="char:EOLhyphen"/>cial Prerogative of God: From hence the <hi>juſtneſs</hi> of the ſeve<g ref="char:EOLhyphen"/>reſt puniſhment of thoſe horrid Offendors, is moſt evident to all underſtandings, and even to their <hi>own conſciences</hi> (if they have, or ever had any.)</p>
+         </div>
+         <div n="10" type="part">
+            <pb n="24" facs="tcp:48896:16"/>
+            <head>
+               <hi>X. John 19.11.</hi> Thou couldſt have no power at all againſt me, except it were given thee from above.</head>
+            <p>THAT this was the Civil Judiciary and juſt power, it is appa<g ref="char:EOLhyphen"/>rent; otherwiſe, when
+<hi>Pilate</hi> evidently ſpake of this, Chriſts anſwer had been equivocal; and the Supreme power of life and death it was; which, though formally competible to none but to the Supreme Magiſtrate, is yet here by Chriſt attributed to <hi>Pi<g ref="char:EOLhyphen"/>late,</hi> becauſe the Supreme Magiſtrate, and his immediate Miniſter, are in a moral ſenſe but as one perſon; to wit, the latter ſuſtaining in the exerciſe of this power, not his <hi>own,</hi> but
+<hi>preciſely</hi> the perſon of the former.</p>
+            <p>And the Magiſtrate (ſaith Chriſt here) <hi>can have no power at all, except it be given him from above:</hi> Conſequently, all his power is from <hi>God alone.</hi>
+            </p>
+            <p>
+               <list type="syllogism">
+                  <item>That which is not given to the Magiſtrate, <hi>but from above,</hi> is given him of <hi>God alone.</hi>
+                  </item>
+                  <item>The Supreme power is not given to the Magiſtrate, <hi>but from above:</hi> Therefore,</item>
+                  <item>The Supreme power is given to the Magiſtrate of <hi>God alone.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Here all is manifeſt and certain; from whence every one muſt needs conclude, That what hand ſoever men may have in making a King <hi>de facto,</hi> or reſtoring a King to the exerciſe of His Kingly Of<g ref="char:EOLhyphen"/>fice, the formal Authority, and Supreme Kingly power, and the juſt Right to exerciſe that power, is not at all from men, but from <hi>God a<g ref="char:EOLhyphen"/>lone.</hi>
+            </p>
+            <p>Therefore alſo they that have interrupted, and ſought to annihilate this power and right which God alone hath created, have not only ſin<g ref="char:EOLhyphen"/>ned againſt God, as ſinners uſually do; but have ſtriven to ſhew them<g ref="char:EOLhyphen"/>ſelves ſtronger than he, to overthrow what he alone (without
+<hi>them,</hi> and without all <hi>men</hi>) hath only by his own Ordinance and Act eſtabliſhed.</p>
+         </div>
+         <div n="11" type="part">
+            <pb n="25" facs="tcp:48896:16"/>
+            <head>
+               <hi>XI. Acts 22.27. The</hi> Jewes <hi>which were of</hi> Aſia <hi>ſtirred up</hi> all the people <hi>of</hi> Jeruſalem, <hi>and they laid hands on</hi> Paul; <hi>And</hi> Chap.
+<hi>22.22.</hi> They lifted up their voyces, and ſaid, Away with ſuch a Fellow from the earth, for it is not fit that he ſhould live.</head>
+            <p>FROM this unjuſt ſentence of that whole people, the Apo<g ref="char:EOLhyphen"/>ſtle made his juſt Appeal to
+<hi>Caeſar,</hi> Chap. 25.11.</p>
+            <p>If it be true, which is averred, <hi>That Kings have no Power and Authority, but what they have from the people;</hi> St. <hi>Pauls</hi> Appeal from the whole people to the ſingle perſon of the King, was apparently unjuſt; and he a manifeſt Abettor of Tyran<g ref="char:EOLhyphen"/>ny, in owning a power in
+<hi>Caeſars</hi> perſon, above the power of the collected Body <hi>of all the people.</hi>
+            </p>
+            <p>But the holy Apoſtle well knew where, and in whom the higheſt power (next and immediately under God) was found; and there<g ref="char:EOLhyphen"/>fore declined to be cenſured by the peoples <hi>univerſal</hi> Vote, or to go up to <hi>Jeruſalem</hi> where the <hi>peoples Repreſentative</hi> was, to be judg<g ref="char:EOLhyphen"/>ed there; but made his juſt and laſt Appeal to <hi>Caeſar.</hi>
+            </p>
+            <p>
+               <list type="syllogism">
+                  <item>Every juſt and laſt Appeal is to the higheſt power next and immediately under God.</item>
+                  <item>St. <hi>Pauls</hi> juſt and laſt Appeal was to <hi>Caeſar.</hi>
+                  </item>
+                  <item>Therefore <hi>Caeſar</hi> was the higheſt power next and immedi<g ref="char:EOLhyphen"/>ately under God.</item>
+               </list>
+            </p>
+            <p>The <hi>Major</hi> muſt needs be true, unleſs it could be lawful and juſt to Appeal from the higheſt Authority under God, to meer violence and force; for Inferiour power againſt the Superiour, from which it is derived, can be nothing elſe.</p>
+            <p>The <hi>Minor</hi> is found in the expreſs words of the Text; the Con<g ref="char:EOLhyphen"/>cluſion therefore is certain, That <hi>Caeſar</hi> was, and ſo every <hi>Caeſar,</hi>
+               <pb n="26" facs="tcp:48896:17"/>or Soveraign Prince is, the higheſt Power next and immediately under God: And, that the King is <hi>ſolo Deo minor,</hi> leſs than none but God, is a Maxim in the Common and Fundamental Law of the Land: So groſsly and palpably falſe is that Seditious Aſſertion, That the King is <hi>ſingulis mojor, ſed univerſis minor;</hi> only greater than the ſingle perſons, but leſs than all together.</p>
+         </div>
+         <div n="12" type="part">
+            <head>XII. 1 Pet. 2.13. <hi>Submit you ſelves to every humane Creature.</hi> Which ſignifies, that every <hi>Man</hi> that is a Magiſtrate, is of <hi>God himſelf created</hi> ſuch; and therefore to be readily ſubmitted to, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for <hi>the Lords ſake.</hi> But the words that follow are chiefly to be noted, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Whether to the King as Supreme.</hi>
+            </head>
+            <p>THe King then is <hi>Supreme,</hi> by the expreſs Word of God. And, there being none ſuperior to him that is Supreme, it is impoſſible and contradictious that any other pretended Authority ſhould <hi>juſtly</hi> overtop and controll the <hi>Supreme</hi> Imperial Power of the King. From hence it <hi>muſt</hi> follow, That every Inſurrection, or levying of War againſt the King, by what perſons ſoever, Subjects of the ſame King<g ref="char:EOLhyphen"/>dom, or in what capacity ſoever, muſt of neceſſity be that <hi>unlawful Reſistence</hi> which God threatens with damnation<note n="*" place="margin">Rom. 13.2.</note>. For, To ſay, that the levying War, and taking up Arms, within the Kings Dominions, without the Kings Commiſſion, againſt the Kings Armies which have his Commiſſion, is no levying of War againſt the King, is but a ſad Apology, and too weak a Plea, for all the hope of thoſe mens ſalvation (who ſcorn to repent) to rely upon. For, in this Text, the weak and wicked principle, from which that grand Miſtake, and all the Miſchief that hath enſued is moſt expreſly confuted: For, if the
+<hi>King</hi> be Su<g ref="char:EOLhyphen"/>preme, the People, or the Peoples Repreſentative is not; unleſs it were true, That the People, or their Repreſentative, is the King. For, </p>
+            <p>
+               <list type="syllogism">
+                  <item>Whoſoever is Supreme, is the King:</item>
+                  <item>The whole People is not the King; <hi>Therefore,</hi>
+                  </item>
+                  <item>The whole People is not Supreme.</item>
+               </list>
+            </p>
+            <pb n="27" facs="tcp:48896:17"/>
+            <p>The <hi>Major</hi> is apparent, becauſe the Apoſtle aſcribes the Supremacy to the King, and to no other: unleſs, in one Kingdom there could be two, or more Supremes; which would infer a manifeſt contradiction. He that denies the <hi>Minor,</hi> muſt be ſent to <hi>Bedlam.</hi> Therefore the Concluſion is unavoidable; <hi>The whole People is not Supreme:</hi> Much leſs their <hi>Repreſentative,</hi> (though virtually the <hi>whole;</hi>) Leaſt of all, a Party, apoſtatizing from their faith given to the People, and their promiſſory Oath to the King, joyning with, and approving the <hi>Armed force and violence</hi> which excluded their Fellow-Members (that were more in number, and ſo, of greater authority than themſelves) out of that Houſe into which they had been legally called by the King, and ſent by the People. Yet, how gloriouſly thoſe Apoſtates could arrogate to themſelves the Title of, <hi>The Supreme Authority of the Nation!</hi> Which was frequently given them alſo by their cloſe Adherents, and ſome other ignorant and beſotted people.</p>
+         </div>
+         <div n="13" type="part">
+            <head>XIII. Exod. 20.12. <hi>Honour thy Father,</hi> &amp;c.</head>
+            <p>THat the Civil Magiſtracy and Paternal Authority are <hi>really</hi> the ſame, (though not gradually,) and ſo, the former as well as the latter <hi>immediately derived from God,</hi> (and not at all from Man,) it moſt demonſtratively appears, in that Obedience is commanded to both, by one and the ſame precept, and ſignified by one and the ſame word in this moral and eternal Law of God. For if the Authority of all Magiſtracy be not eſtabliſhed upon this moral precept, what ground is there for it? How comes it to be <hi>morally</hi> lawful to be any Magiſtrate at all, eſpecially ſo far as (in any caſe) to be a Revenger, and to puniſh any perſon (eſpecially for leſs than Murder) with death, (ſince it is God alone that is the Lord of life?)</p>
+            <p>If then the Civil Authority be eſtabliſhed onely upon the ſame precept of the <hi>Moral Law,</hi> (which is the proper foundation and the adequate meaſure of all juſt Laws and lawful actions,) and the <hi>Magiſtrate</hi> there included in that word <hi>Father,</hi> which the
+<hi>Paternal</hi> Authority it ſelf is onely grounded on; both that and this muſt ne<g ref="char:EOLhyphen"/>ceſſarily
+<pb n="28" facs="tcp:48896:18"/>be the ſelf-ſame power, and cannot differ <hi>really,</hi> but only
+<hi>mo<g ref="char:EOLhyphen"/>dally</hi> or gradually, in the different Object and Execution.</p>
+            <p>And, at that time when this Law was onely in the hearts of men, and afterward (with the whole Decalogue) delivered to <hi>Moſes,</hi> (and long after that too,) there was no Government in the world beſide the <hi>Regal.</hi> And this appears by the words of the people to <hi>Samuel; Make us a King to judge us like all Nations</hi>
+               <note n="*" place="margin">1 Sam. 8.5.</note>; and alſo, by all In<g ref="char:EOLhyphen"/>ſtances that can be named. Therefore the onely Magiſtratical Autho<g ref="char:EOLhyphen"/>rity eſtabliſhed at firſt of God himſelf, upon this moral precept of his eternal Law, was
+<hi>Regal.</hi>
+            </p>
+            <p>And, the <hi>Regal</hi> power being the ſame <hi>really</hi> and <hi>originally</hi> with the
+<hi>Paternal,</hi> it certainly follows, That the People do no more <hi>authorize</hi> their King, than Children their Father, to have dominion over them. And it muſt needs be as lawful (if not much more) for Children to call their Natural Father to an account, to depoſe him, or to put him to death, as for any People to do ſo to their Civil Father, the King, the <hi>LORD'S Anointed.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48896:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
